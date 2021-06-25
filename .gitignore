@@ -1,8 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea
+
 *.pyc
 __pycache__
 .DS_Store
 node_modules
 secret.txt
 
+.eslintcache
